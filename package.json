@@ -1,0 +1,22 @@
+{
+  "name": "minesweeper-serverless",
+  "version": "1.0.0",
+  "description": "Minesweeper serverless with aws lambda and clean architecture",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosRissottoB/minesweeper-serverless.git"
+  },
+  "author": "Marcos Rissotto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcosRissottoB/minesweeper-serverless/issues"
+  },
+  "homepage": "https://github.com/MarcosRissottoB/minesweeper-serverless#readme",
+  "dependencies": {
+    "nvm": "0.0.4"
+  }
+}
